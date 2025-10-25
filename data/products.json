@@ -1,0 +1,22 @@
+[
+  {
+    "name": "DevFest T-Shirt",
+    "sizes": ["s", "m", "l", "xl", "xxl"],
+    "price": 290
+  },
+  {
+    "name": "DevFest Elephant pants",
+    "sizes": ["free size", "xxl"],
+    "price": 350
+  },
+  {
+    "name": "DevFest Keycap keychain",
+    "sizes": [],
+    "price": 89
+  },
+  {
+    "name": "DevFest Elephant plush",
+    "sizes": [],
+    "price": 129
+  }
+]
